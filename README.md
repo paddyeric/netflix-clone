@@ -26,3 +26,7 @@ A comprehensive Netflix clone app developed using modern web technologies. The a
 - `src/store/`: Redux store configuration and API calls
 - `src/utils/`: Firebase config and API keys
 - `src/assets/`: Images, videos, and static assets
+
+![image alt](https://github.com/paddyeric/netflix-clone/blob/2ec53cf1446956debd788776a33cf8534850af9b/signuppage.png)
+![image alt](https://github.com/paddyeric/netflix-clone/blob/2ec53cf1446956debd788776a33cf8534850af9b/loginpage.png)
+![image alt](https://github.com/paddyeric/netflix-clone/blob/2ec53cf1446956debd788776a33cf8534850af9b/movie%20categories.png)
